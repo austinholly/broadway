@@ -19,7 +19,7 @@ h1 {
     font-size: 14px;
     font-weight: normal;
   }
-  
+
 .main-banner {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
@@ -31,5 +31,15 @@ h1 {
 
 .bar {
   background-image: url("../images/the-flatiron-building.png");
+  color: white;
+}
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+a {
+  font-size: 18px;
   color: white;
 }
