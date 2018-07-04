@@ -1,17 +1,16 @@
-body {
+h1,h2,h3,p,a {
   font-family: Helvetica, sans-serif;
-  text-align: center;
   font-weight: bold;
+  text-align: center;
 }
 
 .main-banner {
   background-image: url("../images/the-flatiron-building.png");
-  color: white;
 }
 
 a {
-  font-size: 18px;
   color: white;
+  font-size: 18px;
 }
 
 h1 {
@@ -41,4 +40,8 @@ footer {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+footer a {
+  font-weight: normal;
 }
